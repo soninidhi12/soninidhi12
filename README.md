@@ -11,7 +11,7 @@ Statistics Graduate and aspiring Data Analyst with hands-on experience in SQL, P
 
  
 
-🏆 Diamond Tier Performer - Skillovilla Data Analytics Program
+🏆 Platinum Tier Performer - Skillovilla Data Analytics Program
 
  
 
@@ -19,7 +19,7 @@ Statistics Graduate and aspiring Data Analyst with hands-on experience in SQL, P
 
  
 
-🚀 Currently Learning: Generative AI for Analytics
+🚀 Learnt: Generative AI for Analytics
 
  
 
@@ -43,9 +43,9 @@ https://www.linkedin.com/in/nidhi-jha-6399a53b5
 
 - Data Analyst with strong foundations in Statistics, SQL, Python, Power BI, and Excel
 
-- Currently pursuing Data Analytics training at Skillovilla
+- Done Data Analytics training at Skillovilla
 
-- Achieved Diamond Tier Performer status
+- Achieved Platinum Tier Performer status
   
 - Available for immediate joining
   
@@ -74,7 +74,7 @@ https://www.linkedin.com/in/nidhi-jha-6399a53b5
   
 - NumPy
   
- 
+  
 
 ### Business Intelligence & Visualization
 
