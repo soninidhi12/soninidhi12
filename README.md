@@ -136,17 +136,18 @@ https://github.com/soninidhi12/Olist-rfm-customer-segmentation
  
 
 Key Highlights:
--Analyzed ~100K e-commerce orders using Python, SQL, and Power BI.
 
--Built RFM (Recency, Frequency, Monetary) customer segmentation model.
+- Analyzed ~100K e-commerce orders using Python, SQL, and Power BI.
 
--Classified customers into segments such as Champions, Loyal, At-Risk, and Lost customers.
+- Built RFM (Recency, Frequency, Monetary) customer segmentation model.
 
--Identified high-value customers and churn-risk groups for targeted retention strategies.
+- Classified customers into segments such as Champions, Loyal, At-Risk, and Lost customers.
 
--Developed interactive Power BI dashboards for revenue trends, customer behavior, and category performance.
+- Identified high-value customers and churn-risk groups for targeted retention strategies.
 
--Generated actionable business insights to support customer retention and sales growth.
+- Developed interactive Power BI dashboards for revenue trends, customer behavior, and category performance.
+
+- Generated actionable business insights to support customer retention and sales growth.
 
   
   
